@@ -1,0 +1,14 @@
+[project]
+name = "mcp-adk"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "beautifulsoup4==4.12.3",
+    "deprecated>=1.2.18",
+    "google-adk==0.3.0",
+    "html2text>=2025.4.15",
+    "mcp[cli]>=1.9.3",
+    "requests>=2.32.3",
+]
