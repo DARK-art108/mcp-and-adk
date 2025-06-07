@@ -1,10 +1,10 @@
-# 🚀 MCP-ADK (Message Control Protocol - Agent Development Kit)
+# 🚀 MCP-ADK (Message Context Protocol - Agent Development Kit)
 
 > A Python-based toolkit for building and managing agents with Wikipedia article extraction capabilities.
 
 ## 📋 Overview
 
-MCP-ADK is a powerful toolkit that combines the Message Control Protocol (MCP) with an Agent Development Kit (ADK) to create intelligent agents capable of processing and extracting information from Wikipedia articles. The project provides a robust server implementation with real-time communication capabilities using Server-Sent Events (SSE).
+MCP-ADK is a small demo to showcase the capability of Message Context Protocol (MCP) with an Agent Development Kit (ADK) to create intelligent agents capable of processing and extracting information from Wikipedia articles. The project provides a robust server implementation with real-time communication capabilities using Server-Sent Events (SSE).
 
 ## ✨ Features
 
